@@ -1,2 +1,11 @@
-#push build to branch gh-pages for github pages
-git subtree push --prefix build/ origin gh-pages
+#Install
+`npm install`
+
+#Grunt
+`grunt or grunt default`
+
+#Source
+`dir src`
+
+#Compiled
+`dir build`
